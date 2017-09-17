@@ -9,7 +9,7 @@ permalink: /about/
 
 ## Who am I
 
-I'm a Electrical Engineering, fan of computer, cooking addiction.
+I'm a Electrical Engineer, fan of computer, cooking addiction.
 I previously worked at [SANY](http://www.sanygroup.com) as a Electrical Engineering for four years. 
 My github page: [kwxsp at github](https://github.com/kwxsp)
 
